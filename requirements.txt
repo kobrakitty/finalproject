@@ -1,0 +1,5 @@
+streamlit==1.22.0
+requests==2.31.0
+python-dotenv==1.0.0
+huggingface-hub==0.14.1
+transformers==4.29.2
